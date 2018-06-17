@@ -1,0 +1,1 @@
+This is quadratic equations resolver
